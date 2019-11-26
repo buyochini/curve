@@ -3,15 +3,18 @@ Feature: Contact App
   Background:
     Given I see the contact permission access popup
 
+  @test
   Scenario: TC_001 Accept permission access
     When I select "accept" on the permission access popup
     Then I should see "no contacts" popup screen
 
+  @test
   Scenario: TC_002 Deny permission access
     When I select "deny" on the permission access popup
     And I should see "no permission denied" popup screen
     Then I should not have access to the app
 
+  @test
   Scenario: TC_003 Create contact
     When I select "accept" on the permission access popup
     And I select OK no the contacts popup screen

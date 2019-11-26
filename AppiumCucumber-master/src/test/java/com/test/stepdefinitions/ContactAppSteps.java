@@ -1,5 +1,6 @@
 package com.test.stepdefinitions;
 
+import com.test.Configurations.Log;
 import com.test.screens.ContactAppScreen;
 import cucumber.api.PendingException;
 import cucumber.api.java.en.And;
@@ -18,21 +19,22 @@ public class ContactAppSteps {
             contactAppScreen = new ContactAppScreen();
             contactAppScreen.waitForPopUpScreen();
         } catch (Exception e) {
+            Log.error(e.getMessage());
             throw (e);
         }
-
     }
 
     @When("^I select \"([^\"]*)\" on the permission access popup$")
     public void iSelectAcceptOnThePermissionAccessPopup(String permission) throws Exception {
         try {
             contactAppScreen = new ContactAppScreen();
-            if(permission.equals("accept")) {
+            if (permission.equals("accept")) {
                 contactAppScreen.selectAllowButton();
             } else {
                 contactAppScreen.selectDenyButton();
             }
         } catch (Exception e) {
+            Log.error(e.getMessage());
             throw (e);
         }
     }
@@ -41,12 +43,13 @@ public class ContactAppSteps {
     public void iShouldTheHomepage(String screen) throws Exception {
         try {
             contactAppScreen = new ContactAppScreen();
-            if(screen.equals("no contacts")) {
+            if (screen.equals("no contacts")) {
                 Assert.assertTrue(contactAppScreen.noContactPopUp());
             } else {
                 Assert.assertTrue(contactAppScreen.noPermissionDenied());
             }
         } catch (Exception e) {
+            Log.error(e.getMessage());
             throw (e);
         }
     }
@@ -57,6 +60,7 @@ public class ContactAppSteps {
             contactAppScreen = new ContactAppScreen();
             contactAppScreen.selectOkButtonOnTheNoContactPopup();
         } catch (Exception e) {
+            Log.error(e.getMessage());
             throw (e);
         }
     }
@@ -67,6 +71,7 @@ public class ContactAppSteps {
             contactAppScreen = new ContactAppScreen();
             contactAppScreen.selectCreateContact();
         } catch (Exception e) {
+            Log.error(e.getMessage());
             throw (e);
         }
     }
@@ -77,6 +82,7 @@ public class ContactAppSteps {
             contactAppScreen = new ContactAppScreen();
             contactAppScreen.shouldSeeAMessage();
         } catch (Exception e) {
+            Log.error(e.getMessage());
             throw (e);
         }
     }
@@ -86,9 +92,9 @@ public class ContactAppSteps {
         try {
             contactAppScreen = new ContactAppScreen();
             contactAppScreen.selectOkButtonOnTheNoContactPopup();
-            System.out.println(contactAppScreen.appTitle() + ">>>>>>>>>>>>>>>>>>>>>>>>>>");
             Assert.assertFalse(contactAppScreen.appTitle());
         } catch (Exception e) {
+            Log.error(e.getMessage());
             throw (e);
         }
     }

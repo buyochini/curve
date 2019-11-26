@@ -11,7 +11,8 @@ import org.junit.runner.RunWith;
         monochrome = true,
         plugin = {"pretty", "html:target/cucumberHtmlReport"},
         features = "src/test/resources/features/",
-        glue = {"com.test"}
+        glue = {"com.test"},
+        tags = "@test"
 )
 public class RunContactAppTest {
 
