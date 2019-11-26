@@ -1,0 +1,1023 @@
+2017-09-10 00:02:43,568 INFO  [Log] New driver instantiated 
+2017-09-10 00:02:43,589 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 00:02:44,761 INFO  [Log] Browser maximized 
+2017-09-10 00:02:50,708 INFO  [Log] Web application launched successfully 
+2017-09-10 00:02:53,170 INFO  [Log] Database connected! 
+2017-09-10 00:02:57,078 INFO  [Log] Thread sleep 
+2017-09-10 00:02:59,418 INFO  [Log] Database connected! 
+2017-09-10 00:03:41,342 INFO  [Log] Database closed! 
+2017-09-10 00:03:41,529 INFO  [Log] Database closed! 
+2017-09-10 00:03:41,530 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:03:41,530 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:03:41,531 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 15       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 00:03:41,531 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:03:41,532 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:03:41,598 INFO  [Log] Username field is found 
+2017-09-10 00:03:41,781 INFO  [Log] Username is entered 
+2017-09-10 00:03:41,812 INFO  [Log] Password field is found 
+2017-09-10 00:03:41,892 INFO  [Log] Password is entered 
+2017-09-10 00:03:41,921 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 00:03:48,169 INFO  [Log] Login button is clicked 
+2017-09-10 00:04:18,206 INFO  [Log] Changed terms field is found 
+2017-09-10 00:04:18,243 INFO  [Log] Done button is found 
+2017-09-10 00:04:22,447 INFO  [Log] Done button is clicked 
+2017-09-10 00:04:22,532 INFO  [Log] Early payment offers card is found 
+2017-09-10 00:04:25,534 INFO  [Log] Thread sleep 
+2017-09-10 00:04:28,548 INFO  [Log] Thread sleep 
+2017-09-10 00:04:28,593 INFO  [Log] Early payment offers card is found 
+2017-09-10 00:04:29,205 ERROR [Log] Screenshot taken 
+2017-09-10 00:04:29,206 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 00:04:29,206 INFO  [Log] X 
+2017-09-10 00:04:29,206 INFO  [Log] X 
+2017-09-10 00:04:29,206 INFO  [Log] X 
+2017-09-10 00:04:29,206 INFO  [Log] X 
+2017-09-10 00:04:49,232 INFO  [Log] New driver instantiated 
+2017-09-10 00:04:49,243 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 00:04:50,420 INFO  [Log] Browser maximized 
+2017-09-10 00:04:55,559 INFO  [Log] Web application launched successfully 
+2017-09-10 00:04:58,647 INFO  [Log] Database connected! 
+2017-09-10 00:05:02,113 INFO  [Log] Thread sleep 
+2017-09-10 00:05:03,172 INFO  [Log] Database connected! 
+2017-09-10 00:05:32,325 INFO  [Log] Database closed! 
+2017-09-10 00:05:32,519 INFO  [Log] Database closed! 
+2017-09-10 00:05:32,519 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:05:32,519 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:05:32,519 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 15       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 00:05:32,519 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:05:32,519 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:05:32,563 INFO  [Log] Username field is found 
+2017-09-10 00:05:32,735 INFO  [Log] Username is entered 
+2017-09-10 00:05:32,765 INFO  [Log] Password field is found 
+2017-09-10 00:05:32,831 INFO  [Log] Password is entered 
+2017-09-10 00:05:32,857 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 00:05:37,880 INFO  [Log] Login button is clicked 
+2017-09-10 00:06:07,933 INFO  [Log] Changed terms field is found 
+2017-09-10 00:06:07,967 INFO  [Log] Done button is found 
+2017-09-10 00:06:17,748 INFO  [Log] Done button is clicked 
+2017-09-10 00:06:17,774 INFO  [Log] Early payment offers card is found 
+2017-09-10 00:06:20,775 INFO  [Log] Thread sleep 
+2017-09-10 00:06:23,785 INFO  [Log] Thread sleep 
+2017-09-10 00:06:23,817 INFO  [Log] Early payment offers card is found 
+2017-09-10 00:06:23,872 INFO  [Log] Main tab is found 
+2017-09-10 00:06:30,595 INFO  [Log] Early payment tab is clicked 
+2017-09-10 00:06:33,595 INFO  [Log] Thread sleep 
+2017-09-10 00:06:33,646 INFO  [Log] Invoice number is found 
+2017-09-10 00:06:33,699 INFO  [Log] Days early is found 
+2017-09-10 00:06:34,312 ERROR [Log] Screenshot taken 
+2017-09-10 00:06:34,313 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 00:06:34,313 INFO  [Log] X 
+2017-09-10 00:06:34,313 INFO  [Log] X 
+2017-09-10 00:06:34,313 INFO  [Log] X 
+2017-09-10 00:06:34,313 INFO  [Log] X 
+2017-09-10 00:10:33,873 INFO  [Log] New driver instantiated 
+2017-09-10 00:10:33,897 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 00:10:35,151 INFO  [Log] Browser maximized 
+2017-09-10 00:10:40,139 INFO  [Log] Web application launched successfully 
+2017-09-10 00:10:46,239 INFO  [Log] Database connected! 
+2017-09-10 00:10:50,673 INFO  [Log] Thread sleep 
+2017-09-10 00:10:52,500 INFO  [Log] Database connected! 
+2017-09-10 00:11:12,558 INFO  [Log] Database closed! 
+2017-09-10 00:11:13,517 INFO  [Log] Database closed! 
+2017-09-10 00:11:13,518 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:11:13,518 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:11:13,518 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 15       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 00:11:13,518 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:11:13,518 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:11:13,581 INFO  [Log] Username field is found 
+2017-09-10 00:11:13,801 INFO  [Log] Username is entered 
+2017-09-10 00:11:13,835 INFO  [Log] Password field is found 
+2017-09-10 00:11:13,909 INFO  [Log] Password is entered 
+2017-09-10 00:11:13,935 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 00:11:21,016 INFO  [Log] Login button is clicked 
+2017-09-10 00:11:51,085 INFO  [Log] Changed terms field is found 
+2017-09-10 00:11:51,118 INFO  [Log] Done button is found 
+2017-09-10 00:11:59,907 INFO  [Log] Done button is clicked 
+2017-09-10 00:11:59,946 INFO  [Log] Early payment offers card is found 
+2017-09-10 00:12:02,947 INFO  [Log] Thread sleep 
+2017-09-10 00:12:05,961 INFO  [Log] Thread sleep 
+2017-09-10 00:12:05,992 INFO  [Log] Early payment offers card is found 
+2017-09-10 00:12:06,058 INFO  [Log] Main tab is found 
+2017-09-10 00:12:12,939 INFO  [Log] Early payment tab is clicked 
+2017-09-10 00:12:15,939 INFO  [Log] Thread sleep 
+2017-09-10 00:12:15,988 INFO  [Log] Invoice number is found 
+2017-09-10 00:12:16,045 INFO  [Log] Days early is found 
+2017-09-10 00:12:16,690 ERROR [Log] Screenshot taken 
+2017-09-10 00:12:16,691 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 00:12:16,691 INFO  [Log] X 
+2017-09-10 00:12:16,691 INFO  [Log] X 
+2017-09-10 00:12:16,691 INFO  [Log] X 
+2017-09-10 00:12:16,691 INFO  [Log] X 
+2017-09-10 00:31:50,556 INFO  [Log] New driver instantiated 
+2017-09-10 00:31:50,568 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 00:31:51,767 INFO  [Log] Browser maximized 
+2017-09-10 00:31:56,753 INFO  [Log] Web application launched successfully 
+2017-09-10 00:31:56,753 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:31:56,753 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:31:56,753 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UK Supplier ISS Buyer Test 0       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 00:31:56,753 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:31:56,753 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:31:56,808 INFO  [Log] Username field is found 
+2017-09-10 00:31:57,050 INFO  [Log] Username is entered 
+2017-09-10 00:31:57,082 INFO  [Log] Password field is found 
+2017-09-10 00:31:57,149 INFO  [Log] Password is entered 
+2017-09-10 00:31:57,175 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 00:32:02,845 INFO  [Log] Login button is clicked 
+2017-09-10 00:32:32,900 INFO  [Log] Changed terms field is found 
+2017-09-10 00:32:32,935 INFO  [Log] Done button is found 
+2017-09-10 00:32:38,602 INFO  [Log] Done button is clicked 
+2017-09-10 00:32:38,643 INFO  [Log] Early payment offers card is found 
+2017-09-10 00:32:38,689 INFO  [Log] Early payment offers card is found 
+2017-09-10 00:32:38,778 INFO  [Log] Main tab is found 
+2017-09-10 00:32:41,227 INFO  [Log] Early payment tab is clicked 
+2017-09-10 00:32:44,227 INFO  [Log] Thread sleep 
+2017-09-10 00:32:44,239 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 00:32:44,239 INFO  [Log] X 
+2017-09-10 00:32:44,239 INFO  [Log] X 
+2017-09-10 00:32:44,240 INFO  [Log] X 
+2017-09-10 00:32:44,240 INFO  [Log] X 
+2017-09-10 00:50:05,075 INFO  [Log] New driver instantiated 
+2017-09-10 00:50:05,092 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 00:50:06,280 INFO  [Log] Browser maximized 
+2017-09-10 00:50:28,580 INFO  [Log] Web application launched successfully 
+2017-09-10 00:50:32,079 INFO  [Log] Database connected! 
+2017-09-10 00:50:36,931 INFO  [Log] Thread sleep 
+2017-09-10 00:50:38,457 INFO  [Log] Database connected! 
+2017-09-10 00:50:56,457 INFO  [Log] Database closed! 
+2017-09-10 00:50:56,618 INFO  [Log] Database closed! 
+2017-09-10 00:50:56,618 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:50:56,618 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:50:56,618 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 17       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 00:50:56,618 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:50:56,618 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:52:10,634 ERROR [Log] Username field is not found 
+2017-09-10 00:52:10,640 ERROR [Log] no such element: Unable to locate element: {"method":"id","selector":"mp_mc_txtUserName_TN"}
+  (Session info: chrome=60.0.3112.101)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 73.99 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'LDN-L504', ip: '10.1.202.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.28.455520 (cc17746adff54984afff480136733114c6b3704b), userDataDir=C:\Users\BAYO~1.MAK\AppData\Local\Temp\scoped_dir17752_23862}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.101, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 4a94fa6122ecf44a0b0e83191dba592b
+*** Element info: {Using=id, value=mp_mc_txtUserName_TN} 
+2017-09-10 00:52:10,640 ERROR [Log] no such element: Unable to locate element: {"method":"id","selector":"mp_mc_txtUserName_TN"}
+  (Session info: chrome=60.0.3112.101)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 73.99 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'LDN-L504', ip: '10.1.202.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.28.455520 (cc17746adff54984afff480136733114c6b3704b), userDataDir=C:\Users\BAYO~1.MAK\AppData\Local\Temp\scoped_dir17752_23862}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.101, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 4a94fa6122ecf44a0b0e83191dba592b
+*** Element info: {Using=id, value=mp_mc_txtUserName_TN} 
+2017-09-10 00:52:11,445 ERROR [Log] Screenshot taken 
+2017-09-10 00:52:11,448 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 00:52:11,448 INFO  [Log] X 
+2017-09-10 00:52:11,448 INFO  [Log] X 
+2017-09-10 00:52:11,448 INFO  [Log] X 
+2017-09-10 00:52:11,448 INFO  [Log] X 
+2017-09-10 00:52:40,004 INFO  [Log] New driver instantiated 
+2017-09-10 00:52:40,016 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 00:52:41,202 INFO  [Log] Browser maximized 
+2017-09-10 00:52:46,303 INFO  [Log] Web application launched successfully 
+2017-09-10 00:52:48,988 INFO  [Log] Database connected! 
+2017-09-10 00:52:52,527 INFO  [Log] Thread sleep 
+2017-09-10 00:52:54,896 INFO  [Log] Database connected! 
+2017-09-10 00:53:16,280 INFO  [Log] Database closed! 
+2017-09-10 00:53:16,458 INFO  [Log] Database closed! 
+2017-09-10 00:53:16,458 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:53:16,458 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:53:16,458 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 17       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 00:53:16,458 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:53:16,458 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:53:16,508 INFO  [Log] Username field is found 
+2017-09-10 00:53:16,712 INFO  [Log] Username is entered 
+2017-09-10 00:53:16,743 INFO  [Log] Password field is found 
+2017-09-10 00:53:16,823 INFO  [Log] Password is entered 
+2017-09-10 00:53:16,848 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 00:53:21,731 INFO  [Log] Login button is clicked 
+2017-09-10 00:53:51,789 INFO  [Log] Changed terms field is found 
+2017-09-10 00:53:51,821 INFO  [Log] Done button is found 
+2017-09-10 00:53:57,853 INFO  [Log] Done button is clicked 
+2017-09-10 00:53:57,886 INFO  [Log] Early payment offers card is found 
+2017-09-10 00:54:00,888 INFO  [Log] Thread sleep 
+2017-09-10 00:54:03,892 INFO  [Log] Thread sleep 
+2017-09-10 00:54:03,919 INFO  [Log] Early payment offers card is found 
+2017-09-10 00:54:03,974 INFO  [Log] Early payment offers amount is found 
+2017-09-10 00:54:04,650 ERROR [Log] Screenshot taken 
+2017-09-10 00:54:04,651 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 00:54:04,651 INFO  [Log] X 
+2017-09-10 00:54:04,651 INFO  [Log] X 
+2017-09-10 00:54:04,652 INFO  [Log] X 
+2017-09-10 00:54:04,652 INFO  [Log] X 
+2017-09-10 00:55:24,685 INFO  [Log] New driver instantiated 
+2017-09-10 00:55:24,699 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 00:55:25,861 INFO  [Log] Browser maximized 
+2017-09-10 00:55:30,133 INFO  [Log] Web application launched successfully 
+2017-09-10 00:55:33,068 INFO  [Log] Database connected! 
+2017-09-10 00:55:36,928 INFO  [Log] Thread sleep 
+2017-09-10 00:55:39,611 INFO  [Log] Database connected! 
+2017-09-10 00:55:57,724 INFO  [Log] Database closed! 
+2017-09-10 00:55:57,872 INFO  [Log] Database closed! 
+2017-09-10 00:55:57,872 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:55:57,872 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:55:57,872 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 17       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 00:55:57,872 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:55:57,872 INFO  [Log] **************************************************************************************** 
+2017-09-10 00:55:57,926 INFO  [Log] Username field is found 
+2017-09-10 00:55:58,206 INFO  [Log] Username is entered 
+2017-09-10 00:55:58,242 INFO  [Log] Password field is found 
+2017-09-10 00:55:58,350 INFO  [Log] Password is entered 
+2017-09-10 00:55:58,418 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 00:56:03,643 INFO  [Log] Login button is clicked 
+2017-09-10 00:56:33,661 INFO  [Log] Changed terms field is found 
+2017-09-10 00:56:33,689 INFO  [Log] Done button is found 
+2017-09-10 00:56:39,770 INFO  [Log] Done button is clicked 
+2017-09-10 00:56:39,932 INFO  [Log] Early payment offers card is found 
+2017-09-10 00:56:42,935 INFO  [Log] Thread sleep 
+2017-09-10 00:56:45,945 INFO  [Log] Thread sleep 
+2017-09-10 00:56:45,994 INFO  [Log] Early payment offers card is found 
+2017-09-10 00:56:46,051 INFO  [Log] Early payment offers amount is found 
+2017-09-10 00:56:46,631 ERROR [Log] Screenshot taken 
+2017-09-10 00:56:46,631 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 00:56:46,632 INFO  [Log] X 
+2017-09-10 00:56:46,632 INFO  [Log] X 
+2017-09-10 00:56:46,632 INFO  [Log] X 
+2017-09-10 00:56:46,632 INFO  [Log] X 
+2017-09-10 00:57:48,245 INFO  [Log] New driver instantiated 
+2017-09-10 00:57:48,256 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 00:57:49,436 INFO  [Log] Browser maximized 
+2017-09-10 00:57:53,460 INFO  [Log] Web application launched successfully 
+2017-09-10 00:57:55,348 INFO  [Log] Database connected! 
+2017-09-10 00:57:59,614 INFO  [Log] Thread sleep 
+2017-09-10 00:58:01,407 INFO  [Log] Database connected! 
+2017-09-10 00:58:58,607 INFO  [Log] New driver instantiated 
+2017-09-10 00:58:58,620 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 00:58:59,795 INFO  [Log] Browser maximized 
+2017-09-10 00:59:03,890 INFO  [Log] Web application launched successfully 
+2017-09-10 00:59:05,898 INFO  [Log] Database connected! 
+2017-09-10 00:59:09,978 INFO  [Log] Thread sleep 
+2017-09-10 00:59:12,414 INFO  [Log] Database connected! 
+2017-09-10 00:59:48,932 INFO  [Log] New driver instantiated 
+2017-09-10 00:59:48,964 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 00:59:50,132 INFO  [Log] Browser maximized 
+2017-09-10 00:59:59,045 INFO  [Log] Web application launched successfully 
+2017-09-10 01:00:01,659 INFO  [Log] Database connected! 
+2017-09-10 01:00:05,426 INFO  [Log] Thread sleep 
+2017-09-10 01:00:06,755 INFO  [Log] Database connected! 
+2017-09-10 01:00:40,647 INFO  [Log] Database closed! 
+2017-09-10 01:00:40,852 INFO  [Log] Database closed! 
+2017-09-10 01:00:40,852 INFO  [Log] **************************************************************************************** 
+2017-09-10 01:00:40,852 INFO  [Log] **************************************************************************************** 
+2017-09-10 01:00:40,852 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 17       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 01:00:40,853 INFO  [Log] **************************************************************************************** 
+2017-09-10 01:00:40,853 INFO  [Log] **************************************************************************************** 
+2017-09-10 01:00:40,905 INFO  [Log] Username field is found 
+2017-09-10 01:00:41,111 INFO  [Log] Username is entered 
+2017-09-10 01:00:41,144 INFO  [Log] Password field is found 
+2017-09-10 01:00:41,254 INFO  [Log] Password is entered 
+2017-09-10 01:00:41,283 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 01:00:51,224 INFO  [Log] Login button is clicked 
+2017-09-10 01:01:21,243 INFO  [Log] Changed terms field is found 
+2017-09-10 01:01:21,271 INFO  [Log] Done button is found 
+2017-09-10 01:01:26,960 INFO  [Log] Done button is clicked 
+2017-09-10 01:01:26,998 INFO  [Log] Early payment offers card is found 
+2017-09-10 01:01:30,002 INFO  [Log] Thread sleep 
+2017-09-10 01:01:33,006 INFO  [Log] Thread sleep 
+2017-09-10 01:01:33,035 INFO  [Log] Early payment offers card is found 
+2017-09-10 01:01:33,091 INFO  [Log] Early payment offers amount is found 
+2017-09-10 01:01:33,153 INFO  [Log] Main tab is found 
+2017-09-10 01:01:38,671 INFO  [Log] Early payment tab is clicked 
+2017-09-10 01:01:41,671 INFO  [Log] Thread sleep 
+2017-09-10 01:01:41,711 INFO  [Log] Invoice number is found 
+2017-09-10 01:01:41,762 INFO  [Log] Check box is found 
+2017-09-10 01:01:41,796 INFO  [Log] Invoice number is found 
+2017-09-10 01:01:41,842 INFO  [Log] Check box is found 
+2017-09-10 01:01:41,870 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 01:01:41,870 INFO  [Log] X 
+2017-09-10 01:01:41,870 INFO  [Log] X 
+2017-09-10 01:01:41,870 INFO  [Log] X 
+2017-09-10 01:01:41,870 INFO  [Log] X 
+2017-09-10 01:02:32,290 INFO  [Log] New driver instantiated 
+2017-09-10 01:02:32,310 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 01:02:33,468 INFO  [Log] Browser maximized 
+2017-09-10 01:02:37,214 INFO  [Log] Web application launched successfully 
+2017-09-10 01:02:38,802 INFO  [Log] Database connected! 
+2017-09-10 01:02:42,208 INFO  [Log] Thread sleep 
+2017-09-10 01:02:44,443 INFO  [Log] Database connected! 
+2017-09-10 01:03:02,450 INFO  [Log] Database closed! 
+2017-09-10 01:03:02,613 INFO  [Log] Database closed! 
+2017-09-10 01:03:02,614 INFO  [Log] **************************************************************************************** 
+2017-09-10 01:03:02,614 INFO  [Log] **************************************************************************************** 
+2017-09-10 01:03:02,614 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 18       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 01:03:02,614 INFO  [Log] **************************************************************************************** 
+2017-09-10 01:03:02,614 INFO  [Log] **************************************************************************************** 
+2017-09-10 01:03:02,655 INFO  [Log] Username field is found 
+2017-09-10 01:03:02,789 INFO  [Log] Username is entered 
+2017-09-10 01:03:02,825 INFO  [Log] Password field is found 
+2017-09-10 01:03:02,899 INFO  [Log] Password is entered 
+2017-09-10 01:03:02,930 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 01:03:08,496 INFO  [Log] Login button is clicked 
+2017-09-10 01:03:38,553 INFO  [Log] Changed terms field is found 
+2017-09-10 01:03:38,579 INFO  [Log] Done button is found 
+2017-09-10 01:03:47,691 INFO  [Log] Done button is clicked 
+2017-09-10 01:03:47,725 INFO  [Log] Early payment offers card is found 
+2017-09-10 01:03:50,728 INFO  [Log] Thread sleep 
+2017-09-10 01:03:50,761 INFO  [Log] Main tab is found 
+2017-09-10 01:03:56,817 INFO  [Log] Early payment tab is clicked 
+2017-09-10 01:03:59,817 INFO  [Log] Thread sleep 
+2017-09-10 01:04:02,845 INFO  [Log] Thread sleep 
+2017-09-10 01:04:32,896 ERROR [Log] Early payment offers card is not found 
+2017-09-10 01:04:32,898 ERROR [Log] no such element: Unable to locate element: {"method":"xpath","selector":".//*[@class='btn card_btn-early_payment']"}
+  (Session info: chrome=60.0.3112.101)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'LDN-L504', ip: '10.1.202.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.28.455520 (cc17746adff54984afff480136733114c6b3704b), userDataDir=C:\Users\BAYO~1.MAK\AppData\Local\Temp\scoped_dir14428_8211}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.101, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 11179d8b48a1f4b95420333afcc9b05e
+*** Element info: {Using=xpath, value=.//*[@class='btn card_btn-early_payment']} 
+2017-09-10 01:04:33,501 ERROR [Log] Screenshot taken 
+2017-09-10 01:04:33,542 INFO  [Log] Invoice number is found 
+2017-09-10 01:04:33,601 INFO  [Log] Days early is found 
+2017-09-10 01:04:34,241 ERROR [Log] Screenshot taken 
+2017-09-10 01:04:34,241 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 01:04:34,242 INFO  [Log] X 
+2017-09-10 01:04:34,242 INFO  [Log] X 
+2017-09-10 01:04:34,242 INFO  [Log] X 
+2017-09-10 01:04:34,242 INFO  [Log] X 
+2017-09-10 01:06:29,636 INFO  [Log] New driver instantiated 
+2017-09-10 01:06:29,647 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 01:06:30,744 INFO  [Log] Browser maximized 
+2017-09-10 01:06:35,912 INFO  [Log] Web application launched successfully 
+2017-09-10 01:06:37,877 INFO  [Log] Database connected! 
+2017-09-10 01:06:41,274 INFO  [Log] Thread sleep 
+2017-09-10 01:06:42,765 INFO  [Log] Database connected! 
+2017-09-10 01:06:59,070 INFO  [Log] Database closed! 
+2017-09-10 01:06:59,086 INFO  [Log] Database closed! 
+2017-09-10 01:06:59,086 INFO  [Log] **************************************************************************************** 
+2017-09-10 01:06:59,086 INFO  [Log] **************************************************************************************** 
+2017-09-10 01:06:59,086 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 18       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 01:06:59,086 INFO  [Log] **************************************************************************************** 
+2017-09-10 01:06:59,086 INFO  [Log] **************************************************************************************** 
+2017-09-10 01:06:59,128 INFO  [Log] Username field is found 
+2017-09-10 01:06:59,268 INFO  [Log] Username is entered 
+2017-09-10 01:06:59,292 INFO  [Log] Password field is found 
+2017-09-10 01:06:59,363 INFO  [Log] Password is entered 
+2017-09-10 01:06:59,390 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 01:07:02,075 INFO  [Log] Login button is clicked 
+2017-09-10 01:07:32,142 INFO  [Log] Changed terms field is found 
+2017-09-10 01:07:32,169 INFO  [Log] Done button is found 
+2017-09-10 01:07:35,320 INFO  [Log] Done button is clicked 
+2017-09-10 01:07:35,357 INFO  [Log] Early payment offers card is found 
+2017-09-10 01:07:38,359 INFO  [Log] Thread sleep 
+2017-09-10 01:07:41,364 INFO  [Log] Thread sleep 
+2017-09-10 01:07:41,401 INFO  [Log] Early payment offers card is found 
+2017-09-10 01:07:41,455 INFO  [Log] Early payment offers amount is found 
+2017-09-10 01:07:41,507 INFO  [Log] Main tab is found 
+2017-09-10 01:07:45,377 INFO  [Log] Early payment tab is clicked 
+2017-09-10 01:07:48,377 INFO  [Log] Thread sleep 
+2017-09-10 01:07:48,421 INFO  [Log] Invoice number is found 
+2017-09-10 01:07:48,473 INFO  [Log] Days early is found 
+2017-09-10 01:07:49,116 ERROR [Log] Screenshot taken 
+2017-09-10 01:07:49,116 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 01:07:49,116 INFO  [Log] X 
+2017-09-10 01:07:49,116 INFO  [Log] X 
+2017-09-10 01:07:49,116 INFO  [Log] X 
+2017-09-10 01:07:49,116 INFO  [Log] X 
+2017-09-10 08:30:00,705 INFO  [Log] New driver instantiated 
+2017-09-10 08:30:00,743 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 08:30:01,971 INFO  [Log] Browser maximized 
+2017-09-10 08:30:09,754 INFO  [Log] Web application launched successfully 
+2017-09-10 08:30:12,086 INFO  [Log] Database connected! 
+2017-09-10 08:30:15,700 INFO  [Log] Thread sleep 
+2017-09-10 08:30:17,166 INFO  [Log] Database connected! 
+2017-09-10 08:30:28,977 INFO  [Log] Database closed! 
+2017-09-10 08:30:29,125 INFO  [Log] Database closed! 
+2017-09-10 08:30:29,125 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:30:29,125 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:30:29,125 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 8       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 08:30:29,125 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:30:29,125 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:30:29,319 INFO  [Log] Username field is found 
+2017-09-10 08:30:29,701 INFO  [Log] Username is entered 
+2017-09-10 08:30:29,727 INFO  [Log] Password field is found 
+2017-09-10 08:30:29,839 INFO  [Log] Password is entered 
+2017-09-10 08:30:29,871 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 08:30:38,959 INFO  [Log] Login button is clicked 
+2017-09-10 08:31:09,014 INFO  [Log] Changed terms field is found 
+2017-09-10 08:31:09,041 INFO  [Log] Done button is found 
+2017-09-10 08:31:17,086 INFO  [Log] Done button is clicked 
+2017-09-10 08:31:17,156 INFO  [Log] Early payment offers card is found 
+2017-09-10 08:31:17,198 INFO  [Log] Early payment offers card is found 
+2017-09-10 08:31:17,280 INFO  [Log] Early payment offers amount is found 
+2017-09-10 08:31:17,348 INFO  [Log] Main tab is found 
+2017-09-10 08:31:23,022 INFO  [Log] Early payment tab is clicked 
+2017-09-10 08:31:26,022 INFO  [Log] Thread sleep 
+2017-09-10 08:31:26,064 INFO  [Log] Invoice number is found 
+2017-09-10 08:31:26,121 INFO  [Log] Days early is found 
+2017-09-10 08:31:26,711 ERROR [Log] Screenshot taken 
+2017-09-10 08:31:26,712 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 08:31:26,712 INFO  [Log] X 
+2017-09-10 08:31:26,712 INFO  [Log] X 
+2017-09-10 08:31:26,712 INFO  [Log] X 
+2017-09-10 08:31:26,712 INFO  [Log] X 
+2017-09-10 08:35:12,161 INFO  [Log] New driver instantiated 
+2017-09-10 08:35:12,175 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 08:35:13,363 INFO  [Log] Browser maximized 
+2017-09-10 08:35:22,976 INFO  [Log] Web application launched successfully 
+2017-09-10 08:35:25,052 INFO  [Log] Database connected! 
+2017-09-10 08:35:28,814 INFO  [Log] Thread sleep 
+2017-09-10 08:35:31,617 INFO  [Log] Database connected! 
+2017-09-10 08:35:43,406 INFO  [Log] Database closed! 
+2017-09-10 08:35:43,600 INFO  [Log] Database closed! 
+2017-09-10 08:35:43,600 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:35:43,600 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:35:43,600 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 8       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 08:35:43,600 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:35:43,600 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:35:43,662 INFO  [Log] Username field is found 
+2017-09-10 08:35:43,876 INFO  [Log] Username is entered 
+2017-09-10 08:35:43,926 INFO  [Log] Password field is found 
+2017-09-10 08:35:43,992 INFO  [Log] Password is entered 
+2017-09-10 08:35:44,017 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 08:35:54,010 INFO  [Log] Login button is clicked 
+2017-09-10 08:36:24,050 INFO  [Log] Changed terms field is found 
+2017-09-10 08:36:24,076 INFO  [Log] Done button is found 
+2017-09-10 08:36:34,757 INFO  [Log] Done button is clicked 
+2017-09-10 08:36:34,798 INFO  [Log] Early payment offers card is found 
+2017-09-10 08:36:34,838 INFO  [Log] Early payment offers card is found 
+2017-09-10 08:36:34,891 INFO  [Log] Early payment offers amount is found 
+2017-09-10 08:36:34,944 INFO  [Log] Main tab is found 
+2017-09-10 08:36:40,819 INFO  [Log] Early payment tab is clicked 
+2017-09-10 08:36:43,819 INFO  [Log] Thread sleep 
+2017-09-10 08:36:43,883 INFO  [Log] Invoice number is found 
+2017-09-10 08:36:43,944 INFO  [Log] Days early is found 
+2017-09-10 08:36:44,002 INFO  [Log] Discount amount is found 
+2017-09-10 08:36:44,666 ERROR [Log] Screenshot taken 
+2017-09-10 08:36:44,666 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 08:36:44,666 INFO  [Log] X 
+2017-09-10 08:36:44,666 INFO  [Log] X 
+2017-09-10 08:36:44,666 INFO  [Log] X 
+2017-09-10 08:36:44,666 INFO  [Log] X 
+2017-09-10 08:43:33,942 INFO  [Log] New driver instantiated 
+2017-09-10 08:43:33,953 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 08:43:35,144 INFO  [Log] Browser maximized 
+2017-09-10 08:43:40,607 INFO  [Log] Web application launched successfully 
+2017-09-10 08:43:43,538 INFO  [Log] Database connected! 
+2017-09-10 08:43:47,604 INFO  [Log] Thread sleep 
+2017-09-10 08:43:49,291 INFO  [Log] Database connected! 
+2017-09-10 08:44:00,119 INFO  [Log] Database closed! 
+2017-09-10 08:44:00,771 INFO  [Log] Database closed! 
+2017-09-10 08:44:00,771 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:44:00,771 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:44:00,771 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 8       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 08:44:00,771 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:44:00,772 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:44:00,831 INFO  [Log] Username field is found 
+2017-09-10 08:44:01,017 INFO  [Log] Username is entered 
+2017-09-10 08:44:01,047 INFO  [Log] Password field is found 
+2017-09-10 08:44:01,116 INFO  [Log] Password is entered 
+2017-09-10 08:44:01,142 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 08:50:09,810 INFO  [Log] New driver instantiated 
+2017-09-10 08:50:09,828 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 08:50:11,018 INFO  [Log] Browser maximized 
+2017-09-10 08:50:17,248 INFO  [Log] Web application launched successfully 
+2017-09-10 08:50:20,018 INFO  [Log] Database connected! 
+2017-09-10 08:50:23,571 INFO  [Log] Thread sleep 
+2017-09-10 08:50:26,797 INFO  [Log] Database connected! 
+2017-09-10 08:50:39,741 INFO  [Log] Database closed! 
+2017-09-10 08:50:39,884 INFO  [Log] Database closed! 
+2017-09-10 08:50:39,884 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:50:39,884 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:50:39,884 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 8       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 08:50:39,884 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:50:39,884 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:50:39,942 INFO  [Log] Username field is found 
+2017-09-10 08:50:40,152 INFO  [Log] Username is entered 
+2017-09-10 08:50:40,186 INFO  [Log] Password field is found 
+2017-09-10 08:50:40,267 INFO  [Log] Password is entered 
+2017-09-10 08:50:40,293 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 08:51:42,216 INFO  [Log] New driver instantiated 
+2017-09-10 08:51:42,228 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 08:51:43,389 INFO  [Log] Browser maximized 
+2017-09-10 08:51:50,771 INFO  [Log] Web application launched successfully 
+2017-09-10 08:51:53,182 INFO  [Log] Database connected! 
+2017-09-10 08:51:56,822 INFO  [Log] Thread sleep 
+2017-09-10 08:51:59,208 INFO  [Log] Database connected! 
+2017-09-10 08:53:33,114 INFO  [Log] New driver instantiated 
+2017-09-10 08:53:33,131 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 08:53:34,300 INFO  [Log] Browser maximized 
+2017-09-10 08:53:38,815 INFO  [Log] Web application launched successfully 
+2017-09-10 08:53:44,123 INFO  [Log] Database connected! 
+2017-09-10 08:53:47,847 INFO  [Log] Thread sleep 
+2017-09-10 08:53:49,895 INFO  [Log] Database connected! 
+2017-09-10 08:54:00,951 INFO  [Log] Database closed! 
+2017-09-10 08:54:01,724 INFO  [Log] Database closed! 
+2017-09-10 08:54:01,724 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:54:01,724 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:54:01,724 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 8       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 08:54:01,724 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:54:01,724 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:54:01,774 INFO  [Log] Username field is found 
+2017-09-10 08:54:02,009 INFO  [Log] Username is entered 
+2017-09-10 08:54:02,035 INFO  [Log] Password field is found 
+2017-09-10 08:54:02,107 INFO  [Log] Password is entered 
+2017-09-10 08:54:02,134 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 08:54:08,856 INFO  [Log] Login button is clicked 
+2017-09-10 08:54:38,905 INFO  [Log] Changed terms field is found 
+2017-09-10 08:54:38,935 INFO  [Log] Done button is found 
+2017-09-10 08:54:50,731 INFO  [Log] Done button is clicked 
+2017-09-10 08:54:50,781 INFO  [Log] Early payment offers card is found 
+2017-09-10 08:54:50,818 INFO  [Log] Early payment offers card is found 
+2017-09-10 08:54:50,878 INFO  [Log] Early payment offers amount is found 
+2017-09-10 08:54:50,940 INFO  [Log] Main tab is found 
+2017-09-10 08:54:55,500 INFO  [Log] Early payment tab is clicked 
+2017-09-10 08:54:58,500 INFO  [Log] Thread sleep 
+2017-09-10 08:54:58,540 INFO  [Log] Invoice number is found 
+2017-09-10 08:54:58,590 INFO  [Log] Days early is found 
+2017-09-10 08:54:58,637 INFO  [Log] Discount amount is found 
+2017-09-10 08:54:58,690 INFO  [Log] Check box is found 
+2017-09-10 08:54:58,716 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 08:54:58,716 INFO  [Log] X 
+2017-09-10 08:54:58,716 INFO  [Log] X 
+2017-09-10 08:54:58,716 INFO  [Log] X 
+2017-09-10 08:54:58,716 INFO  [Log] X 
+2017-09-10 08:55:56,837 INFO  [Log] New driver instantiated 
+2017-09-10 08:55:56,857 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 08:55:58,043 INFO  [Log] Browser maximized 
+2017-09-10 08:56:05,897 INFO  [Log] Web application launched successfully 
+2017-09-10 08:56:08,678 INFO  [Log] Database connected! 
+2017-09-10 08:56:13,244 INFO  [Log] Thread sleep 
+2017-09-10 08:56:15,104 INFO  [Log] Database connected! 
+2017-09-10 08:57:26,286 INFO  [Log] Database closed! 
+2017-09-10 08:57:26,423 INFO  [Log] Database closed! 
+2017-09-10 08:57:26,424 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:57:26,424 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:57:26,424 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 16       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 08:57:26,424 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:57:26,424 INFO  [Log] **************************************************************************************** 
+2017-09-10 08:57:26,498 INFO  [Log] Username field is found 
+2017-09-10 08:57:26,671 INFO  [Log] Username is entered 
+2017-09-10 08:57:26,703 INFO  [Log] Password field is found 
+2017-09-10 08:57:26,777 INFO  [Log] Password is entered 
+2017-09-10 08:57:26,805 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 08:57:32,292 INFO  [Log] Login button is clicked 
+2017-09-10 08:58:02,334 INFO  [Log] Changed terms field is found 
+2017-09-10 08:58:02,376 INFO  [Log] Done button is found 
+2017-09-10 08:58:13,711 INFO  [Log] Done button is clicked 
+2017-09-10 08:58:13,746 INFO  [Log] Early payment offers card is found 
+2017-09-10 08:58:16,752 INFO  [Log] Thread sleep 
+2017-09-10 08:58:19,765 INFO  [Log] Thread sleep 
+2017-09-10 08:58:19,800 INFO  [Log] Early payment offers card is found 
+2017-09-10 08:58:19,855 INFO  [Log] Early payment offers amount is found 
+2017-09-10 08:58:19,906 INFO  [Log] Main tab is found 
+2017-09-10 08:58:25,341 INFO  [Log] Early payment tab is clicked 
+2017-09-10 08:58:28,341 INFO  [Log] Thread sleep 
+2017-09-10 08:58:28,362 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 08:58:28,362 INFO  [Log] X 
+2017-09-10 08:58:28,362 INFO  [Log] X 
+2017-09-10 08:58:28,362 INFO  [Log] X 
+2017-09-10 08:58:28,362 INFO  [Log] X 
+2017-09-10 10:45:16,972 INFO  [Log] New driver instantiated 
+2017-09-10 10:45:16,989 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 10:45:18,176 INFO  [Log] Browser maximized 
+2017-09-10 10:45:46,984 INFO  [Log] Web application launched successfully 
+2017-09-10 10:45:50,867 INFO  [Log] Database connected! 
+2017-09-10 10:45:54,721 INFO  [Log] Thread sleep 
+2017-09-10 10:45:57,287 INFO  [Log] Database connected! 
+2017-09-10 10:45:58,211 ERROR [Log] ORA-00942: table or view does not exist
+ 
+2017-09-10 10:45:58,211 ERROR [Log] ORA-00942: table or view does not exist
+ 
+2017-09-10 11:11:53,388 INFO  [Log] New driver instantiated 
+2017-09-10 11:11:53,407 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 11:11:54,566 INFO  [Log] Browser maximized 
+2017-09-10 11:12:23,176 INFO  [Log] Web application launched successfully 
+2017-09-10 11:12:26,597 INFO  [Log] Database connected! 
+2017-09-10 11:12:31,014 INFO  [Log] Thread sleep 
+2017-09-10 11:12:36,135 INFO  [Log] Database connected! 
+2017-09-10 11:12:36,642 ERROR [Log]  
+2017-09-10 11:12:36,642 ERROR [Log]  
+2017-09-10 11:14:57,694 INFO  [Log] New driver instantiated 
+2017-09-10 11:14:57,706 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 11:14:58,886 INFO  [Log] Browser maximized 
+2017-09-10 11:15:02,912 INFO  [Log] Web application launched successfully 
+2017-09-10 11:15:05,499 INFO  [Log] Database connected! 
+2017-09-10 11:15:10,655 INFO  [Log] Thread sleep 
+2017-09-10 11:15:12,543 INFO  [Log] Database connected! 
+2017-09-10 11:15:13,965 ERROR [Log] ResultSet.next was not called 
+2017-09-10 11:15:13,965 ERROR [Log] ResultSet.next was not called 
+2017-09-10 14:06:18,896 INFO  [Log] New driver instantiated 
+2017-09-10 14:06:18,951 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 14:06:20,134 INFO  [Log] Browser maximized 
+2017-09-10 14:06:52,249 INFO  [Log] Web application launched successfully 
+2017-09-10 14:06:56,348 INFO  [Log] Database connected! 
+2017-09-10 14:07:01,839 INFO  [Log] Thread sleep 
+2017-09-10 14:07:05,941 INFO  [Log] Database connected! 
+2017-09-10 14:07:37,368 INFO  [Log] Database closed! 
+2017-09-10 14:07:37,702 INFO  [Log] Database closed! 
+2017-09-10 14:07:37,702 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:07:37,702 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:07:37,702 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 17       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 14:07:37,702 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:07:37,702 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:07:37,767 INFO  [Log] Username field is found 
+2017-09-10 14:07:37,971 INFO  [Log] Username is entered 
+2017-09-10 14:07:38,001 INFO  [Log] Password field is found 
+2017-09-10 14:07:38,069 INFO  [Log] Password is entered 
+2017-09-10 14:07:38,094 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 14:07:56,317 INFO  [Log] Login button is clicked 
+2017-09-10 14:08:26,318 INFO  [Log] Changed terms field is found 
+2017-09-10 14:08:26,343 INFO  [Log] Done button is found 
+2017-09-10 14:08:51,399 INFO  [Log] Done button is clicked 
+2017-09-10 14:08:51,441 INFO  [Log] Early payment offers card is found 
+2017-09-10 14:08:54,439 INFO  [Log] Thread sleep 
+2017-09-10 14:08:57,445 INFO  [Log] Thread sleep 
+2017-09-10 14:08:57,471 INFO  [Log] Early payment offers card is found 
+2017-09-10 14:08:57,521 INFO  [Log] Early payment offers amount is found 
+2017-09-10 14:08:58,243 ERROR [Log] Screenshot taken 
+2017-09-10 14:08:58,244 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 14:08:58,244 INFO  [Log] X 
+2017-09-10 14:08:58,244 INFO  [Log] X 
+2017-09-10 14:08:58,244 INFO  [Log] X 
+2017-09-10 14:08:58,244 INFO  [Log] X 
+2017-09-10 14:10:35,156 INFO  [Log] New driver instantiated 
+2017-09-10 14:10:35,173 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 14:10:36,340 INFO  [Log] Browser maximized 
+2017-09-10 14:10:49,768 INFO  [Log] Web application launched successfully 
+2017-09-10 14:10:56,285 INFO  [Log] Database connected! 
+2017-09-10 14:11:00,249 INFO  [Log] Thread sleep 
+2017-09-10 14:11:08,986 INFO  [Log] Database connected! 
+2017-09-10 14:12:43,844 INFO  [Log] New driver instantiated 
+2017-09-10 14:12:43,862 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 14:12:45,026 INFO  [Log] Browser maximized 
+2017-09-10 14:13:02,899 INFO  [Log] Web application launched successfully 
+2017-09-10 14:13:06,015 INFO  [Log] Database connected! 
+2017-09-10 14:13:09,899 INFO  [Log] Thread sleep 
+2017-09-10 14:13:12,999 INFO  [Log] Database connected! 
+2017-09-10 14:15:05,946 INFO  [Log] New driver instantiated 
+2017-09-10 14:15:05,958 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 14:15:07,154 INFO  [Log] Browser maximized 
+2017-09-10 14:15:15,492 INFO  [Log] Web application launched successfully 
+2017-09-10 14:15:18,908 INFO  [Log] Database connected! 
+2017-09-10 14:15:24,426 INFO  [Log] Thread sleep 
+2017-09-10 14:15:26,809 INFO  [Log] Database connected! 
+2017-09-10 14:15:51,923 INFO  [Log] Database closed! 
+2017-09-10 14:15:52,114 INFO  [Log] Database closed! 
+2017-09-10 14:15:52,114 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:15:52,114 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:15:52,114 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 17       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 14:15:52,114 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:15:52,114 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:15:52,176 INFO  [Log] Username field is found 
+2017-09-10 14:15:52,352 INFO  [Log] Username is entered 
+2017-09-10 14:15:52,386 INFO  [Log] Password field is found 
+2017-09-10 14:15:52,468 INFO  [Log] Password is entered 
+2017-09-10 14:15:52,497 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 14:16:04,903 INFO  [Log] Login button is clicked 
+2017-09-10 14:16:34,923 INFO  [Log] Changed terms field is found 
+2017-09-10 14:16:34,956 INFO  [Log] Done button is found 
+2017-09-10 14:16:46,676 INFO  [Log] Done button is clicked 
+2017-09-10 14:16:46,718 INFO  [Log] Early payment offers card is found 
+2017-09-10 14:16:49,720 INFO  [Log] Thread sleep 
+2017-09-10 14:16:52,723 INFO  [Log] Thread sleep 
+2017-09-10 14:16:52,752 INFO  [Log] Early payment offers card is found 
+2017-09-10 14:16:52,803 INFO  [Log] Early payment offers amount is found 
+2017-09-10 14:16:53,511 ERROR [Log] Screenshot taken 
+2017-09-10 14:16:53,512 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 14:16:53,512 INFO  [Log] X 
+2017-09-10 14:16:53,512 INFO  [Log] X 
+2017-09-10 14:16:53,512 INFO  [Log] X 
+2017-09-10 14:16:53,512 INFO  [Log] X 
+2017-09-10 14:31:07,560 INFO  [Log] New driver instantiated 
+2017-09-10 14:31:07,572 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 14:31:08,800 INFO  [Log] Browser maximized 
+2017-09-10 14:31:17,495 INFO  [Log] Web application launched successfully 
+2017-09-10 14:31:20,341 INFO  [Log] Database connected! 
+2017-09-10 14:31:24,548 INFO  [Log] Thread sleep 
+2017-09-10 14:31:29,119 INFO  [Log] Database connected! 
+2017-09-10 14:31:57,359 INFO  [Log] Database closed! 
+2017-09-10 14:31:57,802 INFO  [Log] Database closed! 
+2017-09-10 14:31:57,802 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:31:57,802 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:31:57,803 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 17       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 14:31:57,803 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:31:57,803 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:31:57,899 INFO  [Log] Username field is found 
+2017-09-10 14:31:58,078 INFO  [Log] Username is entered 
+2017-09-10 14:31:58,109 INFO  [Log] Password field is found 
+2017-09-10 14:31:58,177 INFO  [Log] Password is entered 
+2017-09-10 14:31:58,207 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 14:32:07,620 INFO  [Log] Login button is clicked 
+2017-09-10 14:32:37,685 INFO  [Log] Changed terms field is found 
+2017-09-10 14:32:37,720 INFO  [Log] Done button is found 
+2017-09-10 14:32:47,829 INFO  [Log] Done button is clicked 
+2017-09-10 14:32:47,861 INFO  [Log] Early payment offers card is found 
+2017-09-10 14:32:50,862 INFO  [Log] Thread sleep 
+2017-09-10 14:32:53,879 INFO  [Log] Thread sleep 
+2017-09-10 14:32:53,912 INFO  [Log] Early payment offers card is found 
+2017-09-10 14:32:53,977 INFO  [Log] Early payment offers amount is found 
+2017-09-10 14:32:54,581 ERROR [Log] Screenshot taken 
+2017-09-10 14:32:54,582 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 14:32:54,582 INFO  [Log] X 
+2017-09-10 14:32:54,583 INFO  [Log] X 
+2017-09-10 14:32:54,583 INFO  [Log] X 
+2017-09-10 14:32:54,583 INFO  [Log] X 
+2017-09-10 14:35:56,206 INFO  [Log] New driver instantiated 
+2017-09-10 14:35:56,221 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 14:35:57,404 INFO  [Log] Browser maximized 
+2017-09-10 14:36:08,330 INFO  [Log] Web application launched successfully 
+2017-09-10 14:36:12,225 INFO  [Log] Database connected! 
+2017-09-10 14:36:16,262 INFO  [Log] Thread sleep 
+2017-09-10 14:36:19,905 INFO  [Log] Database connected! 
+2017-09-10 14:36:48,178 INFO  [Log] Database closed! 
+2017-09-10 14:36:48,392 INFO  [Log] Database closed! 
+2017-09-10 14:36:48,392 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:36:48,393 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:36:48,393 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 17       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 14:36:48,393 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:36:48,393 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:36:48,476 INFO  [Log] Username field is found 
+2017-09-10 14:36:48,653 INFO  [Log] Username is entered 
+2017-09-10 14:36:48,682 INFO  [Log] Password field is found 
+2017-09-10 14:36:48,752 INFO  [Log] Password is entered 
+2017-09-10 14:36:48,779 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 14:37:41,903 INFO  [Log] New driver instantiated 
+2017-09-10 14:37:41,915 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 14:37:43,106 INFO  [Log] Browser maximized 
+2017-09-10 14:37:56,399 INFO  [Log] Web application launched successfully 
+2017-09-10 14:37:59,133 INFO  [Log] Database connected! 
+2017-09-10 14:38:03,181 INFO  [Log] Thread sleep 
+2017-09-10 14:38:05,605 INFO  [Log] Database connected! 
+2017-09-10 14:45:23,148 INFO  [Log] New driver instantiated 
+2017-09-10 14:45:23,175 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 14:45:24,353 INFO  [Log] Browser maximized 
+2017-09-10 14:45:33,145 INFO  [Log] Web application launched successfully 
+2017-09-10 14:45:38,749 INFO  [Log] Database connected! 
+2017-09-10 14:45:42,757 INFO  [Log] Thread sleep 
+2017-09-10 14:45:45,731 INFO  [Log] Database connected! 
+2017-09-10 15:05:09,100 INFO  [Log] New driver instantiated 
+2017-09-10 15:05:09,118 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 15:05:10,331 INFO  [Log] Browser maximized 
+2017-09-10 15:05:23,238 INFO  [Log] Web application launched successfully 
+2017-09-10 15:05:26,095 INFO  [Log] Database connected! 
+2017-09-10 15:05:30,631 INFO  [Log] Thread sleep 
+2017-09-10 15:05:32,980 INFO  [Log] Database connected! 
+2017-09-10 15:07:59,384 INFO  [Log] New driver instantiated 
+2017-09-10 15:07:59,397 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 15:08:00,558 INFO  [Log] Browser maximized 
+2017-09-10 15:08:08,041 INFO  [Log] Web application launched successfully 
+2017-09-10 15:08:15,476 INFO  [Log] Database connected! 
+2017-09-10 15:08:21,081 INFO  [Log] Thread sleep 
+2017-09-10 15:08:23,772 INFO  [Log] Database connected! 
+2017-09-10 15:08:45,118 INFO  [Log] Database closed! 
+2017-09-10 15:08:45,308 INFO  [Log] Database closed! 
+2017-09-10 15:08:45,308 INFO  [Log] **************************************************************************************** 
+2017-09-10 15:08:45,308 INFO  [Log] **************************************************************************************** 
+2017-09-10 15:08:45,308 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 17       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 15:08:45,308 INFO  [Log] **************************************************************************************** 
+2017-09-10 15:08:45,308 INFO  [Log] **************************************************************************************** 
+2017-09-10 15:08:45,363 INFO  [Log] Username field is found 
+2017-09-10 15:08:45,516 INFO  [Log] Username is entered 
+2017-09-10 15:08:45,549 INFO  [Log] Password field is found 
+2017-09-10 15:08:45,616 INFO  [Log] Password is entered 
+2017-09-10 15:08:45,648 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 15:09:09,474 INFO  [Log] Login button is clicked 
+2017-09-10 15:09:39,496 INFO  [Log] Changed terms field is found 
+2017-09-10 15:09:39,527 INFO  [Log] Done button is found 
+2017-09-10 15:09:58,506 INFO  [Log] Done button is clicked 
+2017-09-10 15:09:58,549 INFO  [Log] Early payment offers card is found 
+2017-09-10 15:10:01,551 INFO  [Log] Thread sleep 
+2017-09-10 15:10:04,555 INFO  [Log] Thread sleep 
+2017-09-10 15:10:04,583 INFO  [Log] Early payment offers card is found 
+2017-09-10 15:10:04,633 INFO  [Log] Early payment offers amount is found 
+2017-09-10 15:10:04,688 INFO  [Log] Main tab is found 
+2017-09-10 15:10:19,192 INFO  [Log] Early payment tab is clicked 
+2017-09-10 15:10:22,192 INFO  [Log] Thread sleep 
+2017-09-10 15:10:22,237 INFO  [Log] Invoice number is found 
+2017-09-10 15:10:22,292 INFO  [Log] Check box is found 
+2017-09-10 15:10:22,333 INFO  [Log] Invoice number is found 
+2017-09-10 15:10:22,377 INFO  [Log] Check box is found 
+2017-09-10 15:10:22,401 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 15:10:22,401 INFO  [Log] X 
+2017-09-10 15:10:22,401 INFO  [Log] X 
+2017-09-10 15:10:22,401 INFO  [Log] X 
+2017-09-10 15:10:22,401 INFO  [Log] X 
+2017-09-10 15:12:06,935 INFO  [Log] New driver instantiated 
+2017-09-10 15:12:06,947 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 15:12:08,162 INFO  [Log] Browser maximized 
+2017-09-10 15:12:17,644 INFO  [Log] Web application launched successfully 
+2017-09-10 15:12:19,848 INFO  [Log] Database connected! 
+2017-09-10 15:12:26,575 INFO  [Log] Thread sleep 
+2017-09-10 15:12:30,486 INFO  [Log] Database connected! 
+2017-09-10 15:14:07,399 INFO  [Log] Database closed! 
+2017-09-10 15:14:08,176 INFO  [Log] Database closed! 
+2017-09-10 15:14:08,176 INFO  [Log] **************************************************************************************** 
+2017-09-10 15:14:08,176 INFO  [Log] **************************************************************************************** 
+2017-09-10 15:14:08,176 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 US Supplier ISS Buyer Test 16       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 15:14:08,176 INFO  [Log] **************************************************************************************** 
+2017-09-10 15:14:08,176 INFO  [Log] **************************************************************************************** 
+2017-09-10 15:14:08,234 INFO  [Log] Username field is found 
+2017-09-10 15:14:08,411 INFO  [Log] Username is entered 
+2017-09-10 15:14:08,441 INFO  [Log] Password field is found 
+2017-09-10 15:14:08,516 INFO  [Log] Password is entered 
+2017-09-10 15:14:08,542 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 15:14:18,130 INFO  [Log] Login button is clicked 
+2017-09-10 15:14:48,212 INFO  [Log] Changed terms field is found 
+2017-09-10 15:14:48,242 INFO  [Log] Done button is found 
+2017-09-10 15:14:58,352 INFO  [Log] Done button is clicked 
+2017-09-10 15:14:58,382 INFO  [Log] Early payment offers card is found 
+2017-09-10 15:15:01,383 INFO  [Log] Thread sleep 
+2017-09-10 15:15:04,453 INFO  [Log] Thread sleep 
+2017-09-10 15:15:04,524 INFO  [Log] Early payment offers card is found 
+2017-09-10 15:15:04,579 INFO  [Log] Early payment offers amount is found 
+2017-09-10 15:15:04,635 INFO  [Log] Main tab is found 
+2017-09-10 15:15:15,637 INFO  [Log] Early payment tab is clicked 
+2017-09-10 15:15:18,637 INFO  [Log] Thread sleep 
+2017-09-10 15:15:18,655 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 15:15:18,655 INFO  [Log] X 
+2017-09-10 15:15:18,655 INFO  [Log] X 
+2017-09-10 15:15:18,655 INFO  [Log] X 
+2017-09-10 15:15:18,655 INFO  [Log] X 
+2017-09-10 15:24:08,527 INFO  [Log] **************************************************************************************** 
+2017-09-10 15:24:08,535 INFO  [Log] **************************************************************************************** 
+2017-09-10 15:24:08,535 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Manage Security Setting Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 15:24:08,535 INFO  [Log] **************************************************************************************** 
+2017-09-10 15:24:08,535 INFO  [Log] **************************************************************************************** 
+2017-09-10 15:24:12,808 INFO  [Log] New driver instantiated 
+2017-09-10 15:24:12,823 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 15:24:13,999 INFO  [Log] Browser maximized 
+2017-09-10 15:24:27,552 INFO  [Log] Web application launched successfully 
+2017-09-10 15:24:27,617 INFO  [Log] Username field is found 
+2017-09-10 15:24:27,961 INFO  [Log] Username is entered 
+2017-09-10 15:24:27,995 INFO  [Log] Password field is found 
+2017-09-10 15:24:28,088 INFO  [Log] Password is entered 
+2017-09-10 15:24:28,122 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 15:24:39,792 INFO  [Log] Login button is clicked 
+2017-09-10 15:25:09,845 INFO  [Log] Changed terms field is found 
+2017-09-10 15:25:09,871 INFO  [Log] Done button is found 
+2017-09-10 15:25:24,986 INFO  [Log] Done button is clicked 
+2017-09-10 15:25:25,022 INFO  [Log] My setting button is found 
+2017-09-10 15:25:33,670 INFO  [Log] My setting button is clicked 
+2017-09-10 15:25:36,670 INFO  [Log] Thread sleep 
+2017-09-10 15:25:36,721 INFO  [Log] Manage security settings link is found 
+2017-09-10 15:25:42,460 INFO  [Log] Manage security settings is clicked 
+2017-09-10 15:25:45,460 INFO  [Log] Thread sleep 
+2017-09-10 15:25:45,491 INFO  [Log] Memorable Word check box is found 
+2017-09-10 15:25:45,576 INFO  [Log] Memorable Word is clicked 
+2017-09-10 15:25:48,576 INFO  [Log] Thread sleep 
+2017-09-10 15:25:53,187 INFO  [Log] Save button is found 
+2017-09-10 15:26:01,483 INFO  [Log] Save button is clicked 
+2017-09-10 15:26:04,483 INFO  [Log] Thread sleep 
+2017-09-10 15:26:04,531 INFO  [Log] Save Successful message 
+2017-09-10 15:26:04,586 INFO  [Log] Log out button is found 
+2017-09-10 15:26:14,626 INFO  [Log] Click action is performed on the selected NavTab 
+2017-09-10 15:26:14,626 INFO  [Log] Logout successful 
+2017-09-10 15:26:17,626 INFO  [Log] Thread sleep 
+2017-09-10 15:26:17,671 INFO  [Log] Continue to LoginPageObjs button is found 
+2017-09-10 15:26:23,900 INFO  [Log] Continue to Login button is clicked 
+2017-09-10 15:26:23,932 INFO  [Log] Username field is found 
+2017-09-10 15:26:24,136 INFO  [Log] Username is entered 
+2017-09-10 15:26:24,163 INFO  [Log] Password field is found 
+2017-09-10 15:26:24,247 INFO  [Log] Password is entered 
+2017-09-10 15:26:24,263 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 15:26:32,591 INFO  [Log] Login button is clicked 
+2017-09-10 15:26:35,591 INFO  [Log] Thread sleep 
+2017-09-10 15:26:35,661 INFO  [Log] First value field is found 
+2017-09-10 15:26:35,725 INFO  [Log] First value letter is found 
+2017-09-10 15:26:35,772 INFO  [Log] First memorable word entered 
+2017-09-10 15:26:38,773 INFO  [Log] Thread sleep 
+2017-09-10 15:26:38,824 INFO  [Log] Second value field is found 
+2017-09-10 15:26:38,873 INFO  [Log] Second value field is found 
+2017-09-10 15:26:38,902 INFO  [Log] Second value field is found 
+2017-09-10 15:26:38,939 INFO  [Log] Second value letter is found 
+2017-09-10 15:26:38,986 INFO  [Log] Second memorable word entered 
+2017-09-10 15:26:41,987 INFO  [Log] Thread sleep 
+2017-09-10 15:26:42,035 INFO  [Log] Continue button is found 
+2017-09-10 15:26:48,098 INFO  [Log] Continue button is clicked 
+2017-09-10 15:26:48,132 INFO  [Log] Done button is found 
+2017-09-10 15:26:55,027 INFO  [Log] Done button is clicked 
+2017-09-10 15:26:55,068 INFO  [Log] My setting button is found 
+2017-09-10 15:26:59,202 INFO  [Log] My setting button is clicked 
+2017-09-10 15:27:02,202 INFO  [Log] Thread sleep 
+2017-09-10 15:27:02,242 INFO  [Log] Manage security settings link is found 
+2017-09-10 15:27:09,078 INFO  [Log] Manage security settings is clicked 
+2017-09-10 15:27:12,078 INFO  [Log] Thread sleep 
+2017-09-10 15:27:12,119 INFO  [Log] Memorable Word check box is found 
+2017-09-10 15:27:15,915 INFO  [Log] Memorable Word is clicked 
+2017-09-10 15:27:18,916 INFO  [Log] Thread sleep 
+2017-09-10 15:27:18,951 INFO  [Log] Save button is found 
+2017-09-10 15:27:26,004 INFO  [Log] Save button is clicked 
+2017-09-10 15:27:29,004 INFO  [Log] Thread sleep 
+2017-09-10 15:27:29,007 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 15:27:29,007 INFO  [Log] X 
+2017-09-10 15:27:29,007 INFO  [Log] X 
+2017-09-10 15:27:29,007 INFO  [Log] X 
+2017-09-10 15:27:29,007 INFO  [Log] X 
+2017-09-10 15:27:32,770 INFO  [Log] New driver instantiated 
+2017-09-10 15:27:32,785 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-09-10 15:27:33,955 INFO  [Log] Browser maximized 
+2017-09-10 15:27:38,846 INFO  [Log] Web application launched successfully 
+2017-09-10 15:27:38,873 INFO  [Log] Username field is found 
+2017-09-10 15:27:39,074 INFO  [Log] Username is entered 
+2017-09-10 15:27:39,098 INFO  [Log] Password field is found 
+2017-09-10 15:27:39,183 INFO  [Log] Password is entered 
+2017-09-10 15:27:39,208 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 15:27:51,329 INFO  [Log] Login button is clicked 
+2017-09-10 15:28:21,395 INFO  [Log] Changed terms field is found 
+2017-09-10 15:28:21,439 INFO  [Log] Done button is found 
+2017-09-10 15:28:27,019 INFO  [Log] Done button is clicked 
+2017-09-10 15:28:27,045 INFO  [Log] My setting button is found 
+2017-09-10 15:28:35,880 INFO  [Log] My setting button is clicked 
+2017-09-10 15:28:38,880 INFO  [Log] Thread sleep 
+2017-09-10 15:28:38,934 INFO  [Log] Manage security settings link is found 
+2017-09-10 15:28:43,701 INFO  [Log] Manage security settings is clicked 
+2017-09-10 15:28:46,701 INFO  [Log] Thread sleep 
+2017-09-10 15:28:46,738 INFO  [Log] Decrease Password Length drag is found 
+2017-09-10 15:28:47,006 INFO  [Log] Memorable Word is clicked 
+2017-09-10 15:28:50,006 INFO  [Log] Thread sleep 
+2017-09-10 15:28:50,045 INFO  [Log] Save button is found 
+2017-09-10 15:28:55,253 INFO  [Log] Scrolling 
+2017-09-10 15:28:55,254 INFO  [Log] Save button is clicked 
+2017-09-10 15:28:58,254 INFO  [Log] Thread sleep 
+2017-09-10 15:28:58,284 INFO  [Log] Save Successful message 
+2017-09-10 15:29:01,314 INFO  [Log] Thread sleep 
+2017-09-10 15:29:01,353 INFO  [Log] Continue button is found 
+2017-09-10 15:29:01,380 INFO  [Log] Scrolling 
+2017-09-10 15:29:01,464 INFO  [Log] Continue button is found 
+2017-09-10 15:29:07,989 INFO  [Log] Scrolling 
+2017-09-10 15:29:07,989 INFO  [Log] Change your password link is clicked 
+2017-09-10 15:29:10,989 INFO  [Log] Thread sleep 
+2017-09-10 15:29:11,053 INFO  [Log] Existing password button is found 
+2017-09-10 15:29:11,158 INFO  [Log] Existing password button is entered 
+2017-09-10 15:29:11,225 INFO  [Log] New password button is found 
+2017-09-10 15:29:11,306 INFO  [Log] New password button is entered 
+2017-09-10 15:29:11,335 INFO  [Log] Re-enter new password button is found 
+2017-09-10 15:29:11,396 INFO  [Log] Re-enter new password button is entered 
+2017-09-10 15:29:14,396 INFO  [Log] Thread sleep 
+2017-09-10 15:29:14,433 INFO  [Log] Save button is found 
+2017-09-10 15:29:22,320 INFO  [Log] Save button is clicked 
+2017-09-10 15:29:25,320 INFO  [Log] Thread sleep 
+2017-09-10 15:29:25,355 INFO  [Log] Password length message 
+2017-09-10 15:29:28,381 INFO  [Log] Thread sleep 
+2017-09-10 15:29:28,434 INFO  [Log] Existing password button is found 
+2017-09-10 15:29:28,518 INFO  [Log] Existing password button is entered 
+2017-09-10 15:29:28,548 INFO  [Log] New password button is found 
+2017-09-10 15:29:28,643 INFO  [Log] New password button is entered 
+2017-09-10 15:29:28,670 INFO  [Log] Re-enter new password button is found 
+2017-09-10 15:29:28,749 INFO  [Log] Re-enter new password button is entered 
+2017-09-10 15:29:28,776 INFO  [Log] Save button is found 
+2017-09-10 15:29:32,793 INFO  [Log] Save button is clicked 
+2017-09-10 15:29:35,793 INFO  [Log] Thread sleep 
+2017-09-10 15:29:35,830 INFO  [Log] Save Successful message 
+2017-09-10 15:29:35,894 INFO  [Log] Log out button is found 
+2017-09-10 15:29:43,474 INFO  [Log] Click action is performed on the selected NavTab 
+2017-09-10 15:29:43,474 INFO  [Log] Logout successful 
+2017-09-10 15:29:43,500 INFO  [Log] Continue to LoginPageObjs button is found 
+2017-09-10 15:29:49,099 INFO  [Log] Continue to Login button is clicked 
+2017-09-10 15:29:49,124 INFO  [Log] Username field is found 
+2017-09-10 15:29:49,310 INFO  [Log] Username is entered 
+2017-09-10 15:29:49,337 INFO  [Log] Password field is found 
+2017-09-10 15:29:49,413 INFO  [Log] Password is entered 
+2017-09-10 15:29:49,428 INFO  [Log] LoginPageObjs button is found 
+2017-09-10 15:29:55,496 INFO  [Log] Login button is clicked 
+2017-09-10 15:30:25,528 INFO  [Log] Changed terms field is found 
+2017-09-10 15:30:25,564 INFO  [Log] Done button is found 
+2017-09-10 15:30:33,584 INFO  [Log] Done button is clicked 
+2017-09-10 15:30:33,614 INFO  [Log] My setting button is found 
+2017-09-10 15:30:37,790 INFO  [Log] My setting button is clicked 
+2017-09-10 15:30:40,789 INFO  [Log] Thread sleep 
+2017-09-10 15:30:40,855 INFO  [Log] Manage security settings link is found 
+2017-09-10 15:30:45,878 INFO  [Log] Manage security settings is clicked 
+2017-09-10 15:30:48,877 INFO  [Log] Thread sleep 
+2017-09-10 15:30:48,936 INFO  [Log] Decrease Password Length drag is found 
+2017-09-10 15:30:49,214 INFO  [Log] Memorable Word is clicked 
+2017-09-10 15:30:52,214 INFO  [Log] Thread sleep 
+2017-09-10 15:30:52,256 INFO  [Log] Save button is found 
+2017-09-10 15:30:56,706 INFO  [Log] Save button is clicked 
+2017-09-10 15:30:59,705 INFO  [Log] Thread sleep 
+2017-09-10 15:30:59,739 INFO  [Log] Continue button is found 
+2017-09-10 15:30:59,760 INFO  [Log] Scrolling 
+2017-09-10 15:30:59,802 INFO  [Log] Continue button is found 
+2017-09-10 15:31:17,390 INFO  [Log] Scrolling 
+2017-09-10 15:31:17,390 INFO  [Log] Change your password link is clicked 
+2017-09-10 15:31:20,389 INFO  [Log] Thread sleep 
+2017-09-10 15:31:20,447 INFO  [Log] Existing password button is found 
+2017-09-10 15:31:20,541 INFO  [Log] Existing password button is entered 
+2017-09-10 15:31:20,565 INFO  [Log] New password button is found 
+2017-09-10 15:31:20,646 INFO  [Log] New password button is entered 
+2017-09-10 15:31:20,670 INFO  [Log] Re-enter new password button is found 
+2017-09-10 15:31:20,746 INFO  [Log] Re-enter new password button is entered 
+2017-09-10 15:31:20,771 INFO  [Log] Save button is found 
+2017-09-10 15:31:26,039 INFO  [Log] Save button is clicked 
+2017-09-10 15:31:29,038 INFO  [Log] Thread sleep 
+2017-09-10 15:31:29,039 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 15:31:29,039 INFO  [Log] X 
+2017-09-10 15:31:29,039 INFO  [Log] X 
+2017-09-10 15:31:29,039 INFO  [Log] X 
+2017-09-10 15:31:29,039 INFO  [Log] X 
